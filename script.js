@@ -1,5 +1,5 @@
 const imageContainer = document.getElementById('image-container');
-const images = ['image1.jpg', 'image2.jpg', 'image3.jpg']; // Add your image filenames
+const images = ['image0.jpg', 'image1.jpg', 'image2.jpg', 'image3.jpg', 'image4.jpg', 'image5.jpg', 'image6.jpg']; // Add your image filenames
 
 let currentIndex = 0;
 
